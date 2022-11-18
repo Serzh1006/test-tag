@@ -1,0 +1,16 @@
+.social-links a {
+  color: blue;
+  text-decoration: none;
+}
+
+#title {
+  color: rgb(139, 10, 60);
+  text-decoration-line: underline;
+}
+
+.menu > li {
+  border: 1px solid tomato;
+}
+a[title] {
+  color: teal;
+}
